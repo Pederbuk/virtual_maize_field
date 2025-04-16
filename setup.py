@@ -20,6 +20,7 @@ data_files = [
 for folder_name in (
     "config",
     "launch",
+    "Media",
     "models",
 ):
     _path_dict = {}

@@ -3,7 +3,7 @@
   <model name='maize_01'>
     <pose frame=''>0 0 0.05 0 -0 0</pose>
     <link name='maize_01_link'>
-      <inertial>
+    <inertial>
         <pose>0 0 0.01 0 0 0</pose>
         <mass>0.3</mass>
         <inertia>
